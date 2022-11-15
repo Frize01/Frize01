@@ -1,5 +1,8 @@
 ### Hi there 👋
-### Junior Developer
+### I'm a Junior Developer
+
+## Technologies 
+- PHP 
 
 <!--
 **Frize01/Frize01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
