@@ -2,7 +2,9 @@
 ### I'm a Junior Developer
 
 ## Technologies 
-- PHP 
+- WEB : HTML, CSS, JavaScript, PHP
+- Applicatif : C# (sous Visual studio), Python
+- BDD : MySQL, SQLite, SQL, Merise, UML
 
 <!--
 **Frize01/Frize01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
